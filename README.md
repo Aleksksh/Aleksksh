@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-ALEX.
+my name is ALEX.
 =============
 
 - The IT Crowd
@@ -12,7 +12,7 @@ ALEX.
 
 ---
 
-![hello my name is](*.png)
+![hello my name is]([*.png](https://runcmd.ru/wp-content/uploads/2023/01/ID-Card.webp))
 
 
 Here are some ideas to get you started:
