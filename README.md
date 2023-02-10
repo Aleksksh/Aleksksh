@@ -12,7 +12,7 @@ my name is ALEX.
 
 ---
 
-![hello my name is]([*.png](https://runcmd.ru/wp-content/uploads/2023/01/ID-Card.webp))
+![hello my name is](https://runcmd.ru/wp-content/uploads/2023/01/ID-Card.webp)
 
 
 Here are some ideas to get you started:
